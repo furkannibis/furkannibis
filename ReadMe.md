@@ -1,5 +1,4 @@
 <h1 align="center">I'm Furkan İBİŞ</h1>
-<h3 align="center">I am a passionate software developer from Turkey.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkannibis" alt="furkannibis" /></a> </p>
 
