@@ -22,8 +22,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkannibis&" alt="furkannibis" /></p>
 
-<p align="center">
-    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://media.tenor.com/TAZQ-bXgfXAAAAAC/samurai.gif)">
-</p>
-
 
