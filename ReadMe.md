@@ -1,6 +1,3 @@
-<center>
-
-  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/furkann_ibis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkannibis) 
 
@@ -23,7 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=furkannibis&icon=6&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  
-</center>
