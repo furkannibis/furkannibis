@@ -1,3 +1,5 @@
+<p align="center">
+
 ![asd](https://github.com/furkannibis/furkannibis/assets/102908626/61a4bf7f-6ce4-4295-a2cf-fde076599708)
 
 ## 🌐 Socials:
@@ -21,5 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=furkannibis&icon=6&color=3)](https://visitcount.itsvg.in)
-
+</p>
 
