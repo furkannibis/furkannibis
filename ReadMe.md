@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/furkannibis" target="blank"><img src="https://img.shields.io/twitter/follow/furkannibis?logo=twitter&style=for-the-badge" alt="furkannibis" /></a> </p>
 
-- 💬 Ask me about **Node.js, Python, Go, GNU/Linux, Network**
+- 💬 Ask me about **Python, GNU/Linux, Network**
 
 - 📫 How to reach me **erlik.furkan@gmail.com**
 
