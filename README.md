@@ -26,6 +26,9 @@
         'programming': ['javascript', 'python'],
         'database': ['postgresql']
       }
+
+if __name__ == '__main__':
+  me = Furkan()
   ```
 
 </h6>
