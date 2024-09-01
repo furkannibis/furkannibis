@@ -1,11 +1,8 @@
-
 <p align="center">
   <img src="https://c.tenor.com/uVSdR8F-vU8AAAAd/tenor.gif" width="300" height="300"/>
 </p>
 
-<h4>
-  <p align='center'>A little about me ✏️</p>
-</h4>
+<h4 align="center">A little about me ✏️</h4>
 
 <h6>
   
@@ -31,13 +28,10 @@ if __name__ == '__main__':
     me = Furkan()
   ```
 
-</h6>
+</h6> 
+  <p align="center"> 
+    <img src="https://leetcard.jacoblin.cool/furkannibis?theme=transparent" alt="Leetcode Stats" height="150" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkannibis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> 
+  </p>
 
-<div align="center">
-  
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/furkannibis?theme=transparent)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkannibis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
+    
