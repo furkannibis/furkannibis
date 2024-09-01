@@ -32,3 +32,12 @@ if __name__ == '__main__':
   ```
 
 </h6>
+
+<div align="center">
+  
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/furkannibis?theme=transparent)
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkannibis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
