@@ -30,7 +30,7 @@ if __name__ == '__main__':
 
 </h6> 
   <p align="center"> 
-    <img src="https://leetcard.jacoblin.cool/furkannibis?theme=transparent" alt="Leetcode Stats" height="150" /> 
+    <img src="https://leetcard.jacoblin.cool/furkannibis?theme=nord" alt="Leetcode Stats" height="150" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkannibis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> 
   </p>
 
