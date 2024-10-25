@@ -36,9 +36,3 @@ if __name__ == '__main__':
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkannibis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://www.codewars.com/users/ibis.furkann/badges/large"/>
 </p>
-
-<p align="center">
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/6709a450fb4be684db410c5b" alt="roadmap.sh" />
-  </a>
-</p>
