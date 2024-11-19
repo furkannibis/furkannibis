@@ -12,6 +12,7 @@
     def __init__(self):
       self.full_name = 'Furkan İBİŞ'
       self.accounts = {
+        'webpage': 'furkanibis.dev',
         'github': 'furkannibis',
         'linkedin': 'furkanibis',
         'instagram': 'furkann_ibis',
